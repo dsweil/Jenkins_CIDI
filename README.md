@@ -1,4 +1,4 @@
-```markdown
+
 # Jenkins CI/CD Infrastructure Setup
 
 ## Overview
@@ -20,7 +20,7 @@ This repository provides a Terraform-based infrastructure setup for a Jenkins-dr
 
 ## Setup Steps for AWS
 1. **Clone the Repository**
-   ```bash
+
    git clone https://github.com/dsweil/Jenkins_CIDI.git
    cd Jenkins_CIDI
    ```
