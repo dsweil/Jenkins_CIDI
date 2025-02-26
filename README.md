@@ -96,6 +96,4 @@ This repository provides a Terraform-based infrastructure setup for a Jenkins-dr
 ## Contributing
 Fork this repo, report issues, or submit pull requests to improve the setup.
 
-## License
-[Specify your license, e.g., MIT, Apache 2.0]
-```
+
